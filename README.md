@@ -1,12 +1,13 @@
-# Mixtures_Hayes2025
+# 	Common non-antibiotic drugs enhance selection for antimicrobial resistance in mixture with ciprofloxacin
 Code and (most of the) data for the paper Hayes et al., 2025
 
-- DOI of the paper:
-- Sequence data is deposited at ENA - Accession Number PRJEB74464.
+- DOI of the paper on biorxiv: https://doi.org/10.1101/2025.03.23.644574
+- Sequence data is deposited at ENA - Accession Number PRJEBXXX.
 - All other data is deposited here as part of this repository.
 
 # Outline
 
-This repository contains the datasets, and code to analyse and visualise the data for the paper 'XXX'. The raw sequencing data is available at ENA with accession number XXX. The code for running the bioinformatics pipelines are not present here, but can be run with default parameters. AMR++ is well supported by a GitHub repository - https://github.com/Microbial-Ecology-Group/AMRplusplus. 
+This repository contains the datasets, and code to analyse and visualise the data for the paper 'Common non-antibiotic drugs enhance selection for antimicrobial resistance in mixture with ciprofloxacin'. It contains the growth OD readings, and qPCR data. It will contain the code used to analyse these, and the metagenome data upon acceptance in a peer-reviewed journal. 
 
-This repository contains the OD readings and qPCR data. The processed sequence data is found at Zenodo - XXX. 
+The code for running the bioinformatics pipelines are not present here, but can be run with default parameters. In this study we used AMR++ to anlayse the metagenome data. AMR++ is well supported by a GitHub repository - https://github.com/Microbial-Ecology-Group/AMRplusplus. 
+
