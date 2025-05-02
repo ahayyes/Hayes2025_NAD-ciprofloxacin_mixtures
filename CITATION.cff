@@ -10,7 +10,7 @@ doi: 10.5281/zenodo.15324016
 date-released: 02-05-2024
 url: "https://github.com/ahayyes/NAD-ciprofloxacin_mixtures_Hayes2025"
 preferred-citation:
-  type: article
+  type: data
   authors:
   - family-names: "April"
     given-names: "Hayes"
