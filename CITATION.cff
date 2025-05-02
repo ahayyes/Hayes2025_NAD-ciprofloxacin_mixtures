@@ -1,11 +1,11 @@
 cff-version: 1.0
 message: If you use this software, please cite it as below.
+title: "Data for: Common non-antibiotic drugs enhance selection for antimicrobial resistance in mixture with ciprofloxacin
 authors:
 - family-names: "April"
   given-names: "Hayes"
   orcid: "https://orcid.org/0000-0002-0293-34322"
-title: "Data and code for: Common non-antibiotic drugs enhance selection for antimicrobial resistance in mixture with ciprofloxacin"
 version: 1.0
 doi: 10.5281/zenodo.15324016
-date-released: 02-05-2024
-url: "https://github.com/ahayyes/NAD-ciprofloxacin_mixtures_Hayes2025"
+date-released: "02-05-2024"
+repository data: "https://github.com/ahayyes/NAD-ciprofloxacin_mixtures_Hayes2025"
