@@ -7,7 +7,7 @@ Code and (most of the) data for the paper Hayes et al., 2025
 
 # Outline
 
-This repository contains the datasets, and code to analyse and visualise the data for the paper 'Common non-antibiotic drugs enhance selection for antimicrobial resistance in mixture with ciprofloxacin'. It contains the growth OD readings, and qPCR data. It will contain the code used to analyse these, and the metagenome data upon acceptance in a peer-reviewed journal. 
+This repository contains the datasets, analysed as part of the study in the manuscript 'Common non-antibiotic drugs enhance selection for antimicrobial resistance in mixture with ciprofloxacin'. It contains the growth OD readings, and qPCR data. It will contain the code used to analyse these upon acceptance in a peer-reviewed journal. 
 
 The code for running the bioinformatics pipelines are not present here, but can be run with default parameters. In this study we used AMR++ to anlayse the metagenome data. AMR++ is well supported by a GitHub repository - https://github.com/Microbial-Ecology-Group/AMRplusplus. 
 
