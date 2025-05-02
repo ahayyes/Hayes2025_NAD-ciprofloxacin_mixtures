@@ -2,7 +2,7 @@
 Code and (most of the) data for the paper Hayes et al., 2025
 
 - DOI of the paper on biorxiv: https://doi.org/10.1101/2025.03.23.644574
-- Sequence data is deposited at ENA - Accession Number PRJEBXXX.
+- Sequence data is deposited at ENA - Accession Number PRJEB88784.
 - All other data is deposited here as part of this repository.
 
 # Outline
