@@ -1,5 +1,5 @@
 # 	Common non-antibiotic drugs enhance selection for antimicrobial resistance in mixture with ciprofloxacin
-Code and (most of the) data for the paper Hayes et al., 2025
+Non-sequencing data for the paper Hayes et al., 2025
 
 - DOI of the paper on biorxiv: https://doi.org/10.1101/2025.03.23.644574
 - Sequence data is deposited at ENA - Accession Number PRJEB88784.
